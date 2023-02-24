@@ -1,46 +1,47 @@
 # Nintendo telemetry servers
-127.0.0.1 receive-%.dg.srv.nintendo.net receive-%.er.srv.nintendo.net
+||receive-%.dg.srv.nintendo.net^$important
+||receive-%.er.srv.nintendo.net^$important
 
 # Block Nintendo Servers
-127.0.0.1 *nintendo.*
-127.0.0.1 *nintendo-europe.com
-127.0.0.1 *nintendoswitch.*
-95.216.149.205 *conntest.nintendowifi.net
-95.216.149.205 *ctest.cdn.nintendo.net
+||*nintendo.*^$important
+||*nintendo-europe.com^$important
+||*nintendoswitch.^$important
+||*conntest.nintendowifi.net^$important
+||*ctest.cdn.nintendo.net^$important
 
 # 90DNS
-127.0.0.1 *nintendo.com
-127.0.0.1 *nintendo.net
-127.0.0.1 *nintendo.jp
-127.0.0.1 *nintendo.co.jp
-127.0.0.1 *nintendo.co.uk
-127.0.0.1 *nintendo-europe.com
-127.0.0.1 *nintendowifi.net
-127.0.0.1 *nintendo.es
-127.0.0.1 *nintendo.co.kr
-127.0.0.1 *nintendo.tw
-127.0.0.1 *nintendo.com.hk
-127.0.0.1 *nintendo.com.au
-127.0.0.1 *nintendo.co.nz
-127.0.0.1 *nintendo.at
-127.0.0.1 *nintendo.be
-127.0.0.1 *nintendods.cz
-127.0.0.1 *nintendo.dk
-127.0.0.1 *nintendo.de
-127.0.0.1 *nintendo.fi
-127.0.0.1 *nintendo.fr
-127.0.0.1 *nintendo.gr
-127.0.0.1 *nintendo.hu
-127.0.0.1 *nintendo.it
-127.0.0.1 *nintendo.nl
-127.0.0.1 *nintendo.no
-127.0.0.1 *nintendo.pt
-127.0.0.1 *nintendo.ru
-127.0.0.1 *nintendo.co.za
-127.0.0.1 *nintendo.se
-127.0.0.1 *nintendo.ch
-127.0.0.1 *nintendoswitch.com
-127.0.0.1 *nintendoswitch.com.cn
-127.0.0.1 *nintendoswitch.cn
-95.216.149.205 *conntest.nintendowifi.net
-95.216.149.205 *ctest.cdn.nintendo.net
+||*nintendo.com^$important
+||*nintendo.net^$important
+||*nintendo.jp^$important
+||*nintendo.co.jp^$important
+||*nintendo.co.uk^$important
+||*nintendo-europe.com^$important
+||*nintendowifi.net^$important
+||*nintendo.es^$important
+||*nintendo.co.kr^$important
+||*nintendo.tw^$important
+||*nintendo.com.hk^$important
+||*nintendo.com.au^$important
+||*nintendo.co.nz^$important
+||*nintendo.at^$important
+||*nintendo.be^$important
+||*nintendods.cz^$important
+||*nintendo.dk^$important
+||*nintendo.de^$important
+||*nintendo.fi^$important
+||*nintendo.fr^$important
+||*nintendo.gr^$important
+||*nintendo.hu^$important
+||*nintendo.it^$important
+||*nintendo.nl^$important
+||*nintendo.no^$important
+||*nintendo.pt^$important
+||*nintendo.ru^$important
+||*nintendo.co.za^$important
+||*nintendo.se^$important
+||*nintendo.ch^$important
+||*nintendoswitch.com^$important
+||*nintendoswitch.com.cn^$important
+||*nintendoswitch.cn^$important
+||*conntest.nintendowifi.net^$important
+||*ctest.cdn.nintendo.net^$important
