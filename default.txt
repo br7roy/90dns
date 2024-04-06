@@ -45,3 +45,6 @@
 ||*nintendoswitch.cn^$important
 ||*conntest.nintendowifi.net^$important
 ||*ctest.cdn.nintendo.net^$important
+||*nintendo.*^$important
+||*nintendoswitch.*^$important
+
