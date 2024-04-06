@@ -47,4 +47,5 @@
 ||*ctest.cdn.nintendo.net^$important
 ||*nintendo.*^$important
 ||*nintendoswitch.*^$important
+||*nintendo.com^$important
 
