@@ -1,7 +1,7 @@
 # Nintendo telemetry servers
 ||receive-%.dg.srv.nintendo.net^
 ||receive-%.er.srv.nintendo.net^
-
+||*baidu.com*
 # Block Nintendo Servers
 ||*nintendo.*^
 ||*nintendo-europe.com^
